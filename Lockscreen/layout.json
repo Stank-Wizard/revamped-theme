@@ -1,0 +1,26 @@
+{
+  "PatchName": "Revamped",
+  "AuthorName": "StankWizard",
+  "TargetName": "Entrance.szs",
+  "ID": "Generated_436e36f7-2e24-4bc5-94f2-43c0a5772027",
+  "TargetFirmware": 900,
+  "Files": [
+    {
+      "FileName": "blyt/EntBtnResumeGame.bflyt",
+      "Patches": [
+        {
+          "PaneName": "P_Image",
+          "UsdPatches": [
+            {
+              "PropName": "S_RoundRadius",
+              "PropValues": [
+                "10"
+              ],
+              "type": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
