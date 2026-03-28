@@ -14,6 +14,7 @@ Revamped is a work-in-progress theme for the Nintendo switch that will hopefully
 <img src="assets/Starting Screen with News Revamped Banned.png" alt=""/>
 
 ### All Software page
+<img src="assets/All Software Revamped.png" alt=""/>
 
 ## Getting Started
 
