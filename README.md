@@ -4,12 +4,12 @@ Revamped is a work-in-progress theme for the Nintendo switch that will hopefully
 
 ## Example Images
 
-### Regular Horify theme
+### Regular Revamped theme
 
 <img src="assets/Home Revamped.png" alt=""/>
 <img src="assets/Starting Screen with News Revamped.png" alt=""/>
 
-### Banned Horify theme
+### Banned Revamped theme
 <img src="assets/Home Revamped Banned.png" alt=""/>
 <img src="assets/Starting Screen with News Revamped Banned.png" alt=""/>
 
