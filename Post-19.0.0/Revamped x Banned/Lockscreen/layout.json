@@ -1,0 +1,26 @@
+{
+  "PatchName": "diffPatch for lock screen",
+  "AuthorName": "autoDiff",
+  "TargetName": "Entrance.szs",
+  "ID": "Generated_a35f1178-bd9a-4f38-ba12-926cc112c046",
+  "TargetFirmware": 900,
+  "Files": [
+    {
+      "FileName": "blyt/EntBtnResumeGame.bflyt",
+      "Patches": [
+        {
+          "PaneName": "P_Image",
+          "UsdPatches": [
+            {
+              "PropName": "S_RoundRadius",
+              "PropValues": [
+                "10"
+              ],
+              "type": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
