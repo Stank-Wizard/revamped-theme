@@ -1,20 +1,21 @@
 # revamped-theme
 
-Revamped is a work-in-progress theme for the Nintendo switch that will hopefully be hosted on [themezer](https://themezer.net/) soon!
+Revamped and Revamped x Banned is a work-in-progress theme for the Nintendo switch that will hopefully be hosted on [themezer](https://themezer.net/) soon!
 
 ## Example Images
 
 ### Regular Revamped theme
 
-<img src="assets/Home Revamped.png" alt=""/>
-<img src="assets/Starting Screen with News Revamped.png" alt=""/>
+<img src="assets/Home Revamped.jpg" alt=""/>
+<img src="assets/Starting Screen with News Resume Game Revamped.jpg" alt=""/>
 
 ### Banned Revamped theme
-<img src="assets/Home Revamped Banned.png" alt=""/>
-<img src="assets/Starting Screen with News Revamped Banned.png" alt=""/>
+<img src="assets/Home Revamped x Banned.jpg" alt=""/>
+<img src="assets/Starting Screen Revamped x Banned.jpg" alt=""/>
+<img src="assets/Starting Screen Resume Game Revamped x Banned.jpg" alt="">
 
 ### All Software page
-<img src="assets/All Software Revamped.png" alt=""/>
+<img src="assets/All Software Revamped.jpg" alt="">
 
 ## Getting Started
 
